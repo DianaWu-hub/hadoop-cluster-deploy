@@ -31,7 +31,6 @@
     - YARN UI：http://192.168.100.119:8088/cluster
 
 ## 🖼运行界面截图
-> 后续上传 hdfs-ui.png、yarn-ui.png 两张截图后，在这里加上两行：
 > ![HDFS WebUI](hdfs-ui.png)
 > ![YARN WebUI](yarn-ui.png)
 
